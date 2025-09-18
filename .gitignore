@@ -5,6 +5,15 @@ rsconnect/
 .Rhistory
 .Rproj.user/
 *.Rproj
+*.RData
+
+# Google Drive link files (skip)
+*.gdoc
+*.gsheet
+*.gslides
+*.gdraw
+*.gform
+*.gtable
 
 # Python / notebooks
 __pycache__/
