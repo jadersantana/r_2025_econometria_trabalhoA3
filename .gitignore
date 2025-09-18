@@ -1,0 +1,16 @@
+﻿data/
+reports/
+
+# R
+rsconnect/
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+
+# SO
+.DS_Store
+Thumbs.db
